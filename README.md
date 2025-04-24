@@ -1,8 +1,8 @@
 # Cyberattack-Detection
-_Author: Antoine DELPLACE_  
-_Last update: 17/01/2020_  
+_Author: Antoine DELPLACE_
+_Last update: 17/01/2020_
 
-This repository corresponds to the source code used for the Advanced Security project "__Cyber Attack Detection thanks to Machine Learning Algorithms__". This work has been carried out by Antoine Delplace, Sheryl Hermoso and Kristofer Anandita.  
+This repository corresponds to the source code used for the Advanced Security project "__Cyber Attack Detection thanks to Machine Learning Algorithms__". This work has been carried out by Antoine Delplace, Sheryl Hermoso and Kristofer Anandita.
 
 ## Method description
 The aim of the project is to find a mechanism that can detect cyber attacks by analysing flows in a network. To do this, a benchmark of different machine learning methods is performed on a large netflow dataset (see Report).
@@ -34,3 +34,12 @@ The experiments show that Random Forest can detect more than 95% of botnets for 
 
 ## References
 1. A. Delplace, S. Hermoso and K. Anandita. "Cyber Attack Detection thanks to Machine Learning Algorithms", _Advanced Security Report at the University of Queensland_, May 2019. [arXiv:2001.06309](https://arxiv.org/abs/2001.06309)
+
+# Dataset:
+The dataset used for **Detecting Cyber Attacks using Machine Learning Algorithms" is:
+[binetflow](https://www.kaggle.com/datasets/heshamasem/binetflow/data)
+
+# Modifications:
+- Performed Hyperparameter tuning on the following models: <List of model file names>
+- Added an ML algorithm: <Null for now>.
+- Compared results. <might omit this>
